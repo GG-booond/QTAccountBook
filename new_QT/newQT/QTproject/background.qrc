@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/OIP-C.png</file>
+    </qresource>
+    <qresource prefix="/new">
+        <file>Image/21.png</file>
+    </qresource>
+</RCC>
